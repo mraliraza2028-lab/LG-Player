@@ -1,0 +1,5 @@
+LG PRO PLAYER - PRIVACY POLICY
+1. This app only accesses your local storage to play music and videos.
+2. We do not collect or share any personal data with third parties.
+3. The Safety Lock feature is for local device protection only.
+4. All media remains offline and secure on your device.
